@@ -7,6 +7,9 @@ scale application.
 > </br> here is link : </br>
 > https://github.com/yasinpalizban/
 
+### DataBase Type
+- mongoDb
+
 ### Instructions
 
 - Run default seeders
